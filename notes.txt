@@ -1,1 +1,2 @@
-My Notes
+Git basics
+More notes on Git
